@@ -4,10 +4,13 @@
 
 To see how it's works:
 
-- Rename the file `robot.js` to other name, like `robot_old.js`.
-- Rename the file `mi-quipo.js` to `robot.js`.
 - Execute the index.html
+- Select a **Rabbit** tank & a **yours** tank
 
 ## Credits
 
 Just another version from the famous hackathon!
+
+## Probe
+
+The 'yours' tank must to kill a 'Rabbit' tank in less than a minute.
